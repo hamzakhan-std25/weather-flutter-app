@@ -1,0 +1,46 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.dart_tool/
+.idea/
+.vscode/
+
+# Android
+*.iml
+.gradle/
+local.properties
+.android/
+GeneratedPluginRegistrant.java
+
+# iOS
+Pods/
+DerivedData/
+*.xcworkspace
+*.lock
+*.xcuserstate
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Windows
+windows/Flutter/GeneratedPluginRegistrant.cpp
+
+# Web
+web/generated_plugin_registrant.dart
+
+# Others
+*.log
+pubspec.lock
+.env
+.env.*
+
+# Firebase (optional)
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
