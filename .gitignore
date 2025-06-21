@@ -39,7 +39,7 @@ web/generated_plugin_registrant.dart
 *.log
 pubspec.lock
 .env
-.env.*
+# .env.*
 
 # Firebase (optional)
 ios/Runner/GoogleService-Info.plist
